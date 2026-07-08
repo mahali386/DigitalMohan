@@ -393,7 +393,7 @@ footer{padding:70px 0 30px;border-top:1px solid var(--border);position:relative;
     </ul>
     <div class="nav-cta">
       <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-ghost">Browse</a>
-      <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-primary" id="navDownloadBtn" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0"><i class="fab fa-google-play"></i> Download</a>
+      <a href="https://github.com/mahali386/DigitalMohan/releases/download/V1.0/DigitalMohan.apk" class="btn btn-primary" id="navDownloadBtn" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0" download><i class="fab fa-google-play"></i> Download</a>
       <button class="hamburger" id="hamburger" aria-label="Menu"><i class="fas fa-bars"></i></button>
     </div>
   </div>
@@ -403,7 +403,7 @@ footer{padding:70px 0 30px;border-top:1px solid var(--border);position:relative;
     <a href="#features">Features</a>
     <a href="#products">Products</a>
     <a href="#faq">FAQ</a>
-    <a href="https://digitamohan.online" target="_blank" rel="noopener" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0">Download App</a>
+    <a href="https://github.com/mahali386/DigitalMohan/releases/download/V1.0/DigitalMohan.apk" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0" download>Download App</a>
   </div>
 </nav>
 
@@ -417,7 +417,7 @@ footer{padding:70px 0 30px;border-top:1px solid var(--border);position:relative;
         <h1>India's Smart <span class="hl">Digital Marketplace</span> for Developers &amp; Creators</h1>
         <p class="sub">Buy premium AI Prompts, eBooks, Website Templates, Source Code, Video Courses, UI Kits, Digital Assets, and Developer Resources at affordable prices.</p>
         <div class="hero-btns">
-          <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-primary" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0"><i class="fab fa-google-play"></i> Download App</a>
+          <a href="https://github.com/mahali386/DigitalMohan/releases/download/V1.0/DigitalMohan.apk" class="btn btn-primary" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0" download><i class="fab fa-google-play"></i> Download App</a>
           <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-ghost"><i class="fas fa-store"></i> Browse Products</a>
         </div>
         <div class="hero-mini">
@@ -700,7 +700,7 @@ footer{padding:70px 0 30px;border-top:1px solid var(--border);position:relative;
       <h2>Start Learning <span class="gradient-text">Smarter</span> Today</h2>
       <p>Join thousands of developers and creators building faster with premium digital resources from DigitalMohan.</p>
       <div class="cta-btns">
-        <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-primary" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0"><i class="fab fa-google-play"></i> Download App</a>
+        <a href="https://github.com/mahali386/DigitalMohan/releases/download/V1.0/DigitalMohan.apk" class="btn btn-primary" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0" download><i class="fab fa-google-play"></i> Download App</a>
         <a href="https://digitamohan.online" target="_blank" rel="noopener" class="btn btn-ghost"><i class="fas fa-store"></i> Explore Products</a>
       </div>
     </div>
@@ -739,7 +739,7 @@ footer{padding:70px 0 30px;border-top:1px solid var(--border);position:relative;
       </div>
       <div class="foot-col">
         <h4>Get the App</h4>
-        <a href="https://digitamohan.online" target="_blank" rel="noopener" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0"><i class="fas fa-file-arrow-down"></i>&nbsp; Download APK</a>
+        <a href="https://github.com/mahali386/DigitalMohan/releases/download/V1.0/DigitalMohan.apk" data-apk-sha256="eb6aa8b38499cb712958fc99d95e5a1bec703d0f6520aaf5344c7e511aa3d1a0" download><i class="fas fa-file-arrow-down"></i>&nbsp; Download APK</a>
         <a href="https://digitamohan.online" target="_blank" rel="noopener"><i class="fas fa-store"></i>&nbsp; Visit Website</a>
         <a href="#faq"><i class="fas fa-headset"></i>&nbsp; Support 24/7</a>
       </div>
